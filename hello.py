@@ -1,7 +1,7 @@
 animals = [
     'rabbit',
     'dog',
-    'cat'
+    'cat',
 ]
 
 
