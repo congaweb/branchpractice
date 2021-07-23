@@ -2,6 +2,7 @@ animals = [
     'rabbit',
     'dog',
     'cat',
+    'hamster',
 ]
 
 
